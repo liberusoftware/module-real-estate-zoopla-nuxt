@@ -1,0 +1,15 @@
+{
+  "repository": "module-real-estate-zoopla-nuxt",
+  "capabilityKey": "liberusoftware/real-estate-zoopla",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-real-estate-zoopla-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/real-estate/nextjs/real-estate-zoopla.md",
+  "presentationPlan": "projects/real-estate/nuxt/real-estate-zoopla.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "real-estate"
+  ]
+}
